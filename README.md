@@ -26,13 +26,13 @@ To run **Crytonians** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://twitter.com/Avicula11
+sudo git clone https://github.com/Ayush2020012016/Cryptonians.git
 ```
 
 Windows:
 
 ```bash
-git clone https://twitter.com/Avicula11
+git clone https://github.com/Ayush2020012016/Cryptonians.git
 ```
 
 ### Contact
